@@ -1,0 +1,215 @@
+li {
+    list-style: none;
+}
+
+.header {
+    background-image: url(../images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    
+
+}
+
+.header .header-title {
+    padding-bottom: 200px;
+    padding-top: 280px;
+    height: 10px;
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(231, 94, 43);
+    padding: 18px 35px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 900px;
+}
+
+.amount-box {
+    text-align: center;
+    justify-content: center;
+}
+
+.amount-list {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.amount {
+    width: 100px;
+    height: 20px;
+    background:lightyellow;
+    padding: 20px 0;
+    border-radius: 5px;
+    display: block;
+    color: gray;
+}
+
+.amount-active {
+
+    width: 100px;
+    height: 20px;
+    padding: 20px 0;
+    background:lightyellow;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
+
+}
+
+.amount-sub {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #B3B3B3;
+
+}
+.plan-description{
+    color: gray;
+    width: 700px;
+    margin: 20px auto;
+    font-size: 20px
+}
+
+hr {
+    border: 1px solid #DADADA;
+    width: 600px;
+    margin: 10px auto;
+}
+.about{
+    text-align: center;
+    color: gray;
+    margin-top: 30px;
+    margin: 0 30px;
+    padding: 10px 200px;
+}
+.plan-title{
+    color: black;
+}
+.plan-des{
+    justify-content: center;
+    color: gray;
+    width: 700px;
+    margin: 20px auto;
+    font-size: 20px
+}
+.about-plan{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 40px 70px;
+    text-align: start;
+    padding: 20px;
+    
+}
+.plan-list1{
+    background-color: lightgreen;
+    border-radius: 2px;
+    padding: 20px 10px;
+
+}
+.plan-list2{
+    background-color: lightcyan;
+    border-radius: 2px;
+    padding: 20px 10px;
+
+}
+.plan-list3{
+    background-color: lightcyan;
+    border-radius: 2px;
+    padding: 20px 10px;
+}
+.b1-img{
+    width: 450px;
+    height: 250px;
+
+}
+.first-blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    gap: 50px;
+    margin: 0 30px;
+    padding: 10px 200px;
+
+}
+.b1-des{
+   color: gray;
+    
+}
+
+.second-blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    margin: 0 30px;
+    padding: 10px 200px;
+
+}
+.b2-img{ 
+    width: 450px;
+    height: 250px;
+
+}
+.b2-des{
+   color: gray;
+    
+}
+.up-title{
+    text-align: center;
+    color: gray;
+}
+.up-des{
+    text-align: center;
+    color: gray;
+}
+.up-form{
+    margin: 20px auto;
+    width: 70%;
+    height: 200px;
+    background-color: #FFF4D6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    padding: 14px 15px;
+    height: 22px;
+    width: 230px;
+    border: 0;
+    background-color: #FFFFFF;
+}
+.footer{
+    background-color: black;
+    background-size: cover;
+     align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    
+
+}
+.fot-title{
+    font-family: 'Dancing Script', cursive;
+    color: tomato;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 30px ;
+
+
+}
+.fot-des{
+     margin-top: 30px; 
+    color: white;
+    padding-bottom:30px;
+}
